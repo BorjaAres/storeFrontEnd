@@ -22,3 +22,6 @@ performance by making all images webp.
 ## Use of Spanish
  Apologies for the use of Spanish in file names, labels, comments and the UI of the webpage. I might update all to English, I'm not sure if it's worth the time yet. 
  My Future projects will be in English from the get go.
+
+## Deploy
+https://melodic-frangollo-b85ce7.netlify.app/
