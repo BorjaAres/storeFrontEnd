@@ -1,5 +1,28 @@
 # StoreFE
-Front End webpage composed with HTML and CSS.
+Front End webpage built with HTML and CSS. It serves as a basic template for a static webpage with a clean and minimalistic design.
+
+## Features
+    Responsive layout for various screen sizes.
+    Great design easily adaptable for different projects. 
+    Easy to customize and modify for specific content and requirements.
+
+## Usage 
+
+    Clone the repository: git clone https://github.com/BorjaAres/StoreFE.git
+    Navigate to the project directory: cd your-repo
+    Open the index.html file in a web browser.
+    Customize the content and styling of the webpage as needed.
+
+## Development
+
+This webpage is built using HTML and CSS. The HTML file defines the structure and content of the webpage, while the CSS file contains the styles and layout properties.
+
+## To modify the webpage:
+
+    Open the index.html file in a text editor.
+    Update the HTML structure and content as desired.
+    Modify the CSS styles in the styles.css file to change the appearance and layout of the webpage.
+    Save the changes and refresh the webpage in the browser to see the updates.
 
 ## Aditional Resources Used
  modernizr,
