@@ -47,4 +47,4 @@ performance by making all images webp.
  My Future projects will be in English from the get go.
 
 ## Deploy
-https://melodic-frangollo-b85ce7.netlify.app/
+https://shopfrontend.netlify.app/
